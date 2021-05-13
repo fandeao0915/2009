@@ -17,5 +17,4 @@ connection.query(sql, function (error, results, fields) {
     console.log(results);
 });
 
-
 connection.end();
